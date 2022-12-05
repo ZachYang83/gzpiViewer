@@ -1,0 +1,9 @@
+.vscroll::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+}
+
+.vscroll::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 4px;
+}
